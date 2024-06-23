@@ -39,5 +39,3 @@ ChatServer is a simple Java-based chat application that allows multiple clients 
     ```sh
     java ChatClient
     ```
-
-## Project Structure
